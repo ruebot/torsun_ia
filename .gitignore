@@ -1,0 +1,9 @@
+config.py
+dist
+*.log
+*.pyc
+*.db
+.cache
+.eggs
+test
+build
